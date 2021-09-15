@@ -9,7 +9,7 @@ break;
 }}
 
 if ($bool) {
-echo $num."は素数です。";
+    echo $num."は素数です。";
 } else {
-echo $num."は素数ではありません。";
+    echo $num."は素数ではありません。";
 }
